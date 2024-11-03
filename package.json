@@ -1,6 +1,5 @@
 {
-  "name": "my-calendar-app",
-  "homepage": "https://manudd25.github.io/React-Calendar/",
+  "name": "useeffect",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,12 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "start": "vite",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
-    "gh-pages": "^6.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
