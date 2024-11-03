@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react-swc'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://manudd25.github.io/React-Calendar/' 
+  base: '/React-Calendar/' 
 });
 
 
