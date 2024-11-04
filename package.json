@@ -1,5 +1,5 @@
 {
-  "homepage": "https://manudd25.github.io/React-Calendar/",
+  "homepage": "http://manudd25.github.io/React-Calendar/",
   "name": "React-Calendar",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
